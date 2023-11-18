@@ -15,9 +15,10 @@ pip install -r'path/requirement.txt'
 cd frontend/ 
 npm start   
 ```
+
  the above code will start the react js \
  
- 
+ or __Frontend Deployed here__- https://vandit98.github.io/
  
 ###  4) running the fastapi instance
 
