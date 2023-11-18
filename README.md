@@ -24,7 +24,13 @@ npm start
  ```
 uvicorn    model:app --reload
 ```
- 
+  Wait for 5-10 sec let the tensorflow model to load.
+
+Now head to the link in the terminal
+
+ ```
+http://127.0.0.1:8000/docs
+```
  now you are good to go and easily click on either knee bend or arm and run the excercise. 
 
 
